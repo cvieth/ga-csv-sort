@@ -1,0 +1,23 @@
+{
+  "name": "ga-csv-sort",
+  "version": "1.0.0",
+  "description": "Google Analyitcs CSV Sorting Tool",
+  "main": "run.csv",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cvieth/ga-csv-sort.git"
+  },
+  "keywords": [
+    "googleanalytics",
+    "sort"
+  ],
+  "author": "Christoph Vieth <christoph@vieth.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cvieth/ga-csv-sort/issues"
+  },
+  "homepage": "https://github.com/cvieth/ga-csv-sort"
+}
